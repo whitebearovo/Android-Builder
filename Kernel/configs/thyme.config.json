@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "Nekomiya",
+      "repo": "https://github.com/ReallySnow/msm-4.9",
+      "branch": "thirteen",
+      "device": "blueline",
+      "defconfig": "b1c1_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
