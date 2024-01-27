@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Pixel3",
-      "repo": "https://github.com/ReallySnow/msm-4.9",
-      "branch": "thirteen",
-      "device": "b1c1",
-      "defconfig": "b1c1_defconfig"
+      "repo": "https://android.googlesource.com/kernel/manifest",
+      "branch": "android-msm-crosshatch-4.9-android12",
+      "device": "blueline",
+      "defconfig": "sdm845_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
