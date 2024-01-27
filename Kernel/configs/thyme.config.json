@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "J607F",
       "repo": "https://github.com/whitebearovo/kernel_lenovo_J607Z",
-      "branch": "Dimensions",
+      "branch": "Dimension2",
       "device": "J607F",
       "defconfig": "/vendor/arnoz_defconfig"
     },
