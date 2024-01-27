@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "Pixel Nya",
+      "repo": "https://github.com/Reallysnow/msm-4.9",
+      "branch": "thirteen",
+      "device": "blueline",
+      "defconfig": "b1c1_defconfig"
     },
     "toolchains": [
       {
