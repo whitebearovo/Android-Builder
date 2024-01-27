@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Pixel3",
-      "repo": "https://github.com/ReallySnow/msm-4.9",
-      "branch": "thirteen",
-      "device": "blueline",
-      "defconfig": "b1c1_defconfig"
+      "name": "J607F",
+      "repo": "https://github.com/whitebearovo/kernel_lenovo_J607Z",
+      "branch": "Dimensions",
+      "device": "J607F",
+      "defconfig": "/vendor/arnoz_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
