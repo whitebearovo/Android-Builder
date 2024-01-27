@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "J607F",
-      "repo": "https://github.com/whitebearovo/kernel_lenovo_J607Z",
-      "branch": "Dimension2",
-      "device": "J607F",
-      "defconfig": "/vendor/arnoz_defconfig"
+      "name": "Pixel3",
+      "repo": "https://github.com/Reallysnow/msm-4.9",
+      "branch": "thirteen",
+      "device": "blueline",
+      "defconfig": "b1c1_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -46,11 +46,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "Pixel 3",
+      "repo": "https://github.com/Reallysnow/msm-4.9",
+      "branch": "thirteen",
+      "device": "blueline",
+      "defconfig": "b1c1_defconfig"
     },
     "toolchains": [
       {
